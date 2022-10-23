@@ -1,4 +1,4 @@
-# Exemplos de código para a placa ESP32 Automação da Autocore robótica
+# Exemplos de código para a placa ESP32 Automação da Autocore Robótica
 
 Exemplos de código disponíveis até o momento:
 * Leitura de entradas - faz a leitura das 4 entradas optoacopladas e manda o status pela serial
@@ -9,7 +9,7 @@ Exemplos de código disponíveis até o momento:
 
 A Placa Automação Residencial ESP32 é mais uma placa original AutoCore Robótica, compatível com ESP32-DevKit V1 30 pinos, ela é a plataforma perfeita para aplicação na sua automação residencial, por possibilitar a aplicação em uma gama enorme de projetos de automação.
 
-Sua estrutura conta com saídas a relé, entradas digitais optoacopladas, interfaces para displays(nextion, oled e lcd) , teclados matriciais, pinos digitais de expansão e muito mais, as possibilidades são infinitas!
+Sua estrutura conta com saídas a relé, entradas digitais optoacopladas, interfaces para displays(nextion, oled e lcd), teclados matriciais, pinos digitais de expansão e muito mais, as possibilidades são infinitas!
 
 A Placa Automação Residencial ESP32 é a melhor opção para quem busca utilizar o ESP32-DevKit V1 e explorar suas possibilidades de forma simplificada nas mais diversas aplicações voltadas à automação residencial.
 
