@@ -37,6 +37,7 @@ A Placa Automação Residencial ESP32 é a melhor opção para quem busca utiliz
 * Peso aproximado: 126g (com o devkit ESP32).
 
 * [Baixar manual](https://cdn.awsli.com.br/78/78150/arquivos/manual%20ESP32%20Automacao.pdf)
+* [Ver vídeo de apresentação](https://www.youtube.com/watch?v=-6y_04BYlK0)
 
 ## Onde comprar a placa ESP32 Automação
 Diretamente no site da autocore robótica através dos links a seguir:
