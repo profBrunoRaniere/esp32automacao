@@ -1,9 +1,9 @@
 # Exemplos de código para a placa ESP32 Automação da Autocore Robótica
 
 Exemplos de código disponíveis até o momento:
-* Leitura de entradas - faz a leitura das 4 entradas optoacopladas e manda o status pela serial
-* Acionamento de relés - aciona os 4 relés da placa em sequência
-* Expansão relés - aciona módulo de relés de 16 canais conectado a interface de expansão
+* **Leitura de entradas** - faz a leitura das 4 entradas optoacopladas e manda o status pela serial
+* **Acionamento de relés** - aciona os 4 relés da placa em sequência
+* **Expansão relés** - aciona módulo de relés de 16 canais conectado a interface de expansão
 
 ## A placa ESP32 automação
 
