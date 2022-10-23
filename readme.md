@@ -6,6 +6,7 @@ Exemplos de código disponíveis até o momento:
 * **Expansão relés** - aciona módulo de relés de 16 canais conectado a interface de expansão
 
 ## A placa ESP32 automação
+![ESP32 Automação](https://cdn.awsli.com.br/400x400/78/78150/produto/180860940/2ba9b93fa7.jpg)
 
 A Placa Automação Residencial ESP32 é mais uma placa original AutoCore Robótica, compatível com ESP32-DevKit V1 30 pinos, ela é a plataforma perfeita para aplicação na sua automação residencial, por possibilitar a aplicação em uma gama enorme de projetos de automação.
 
